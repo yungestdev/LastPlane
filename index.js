@@ -1,4 +1,4 @@
-const browser  = alert("This Website Uses Cookies only to start correctly, no dangerous cookies are allowed")
+const browser  = alert("Sorry, the game is no longer developed")
 function tutorial(){
     const tutorial = alert("open .txt files and paste the link into your browser")
 }
